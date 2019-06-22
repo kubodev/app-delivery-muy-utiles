@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Muyutiles</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="title_activity_login">LoginActividad</string>
+    <string name="title_activity_client_dash_board">ClientePanelControl</string>
+    <string name="title_activity_rider_dashboard">BazarPanelControl</string>
+    <string name="title_activity_place_order">LugarPedido</string>
+    <string name="title_activity_order_details_for_rider">DetallesOrdenBazar</string>
+    <string name="title_activity_accepted_rider">AceptaBazar</string>
+    <string name="title_activity_order_failed">OrdenFallida</string>
+</resources>
